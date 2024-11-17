@@ -22,9 +22,9 @@ Define a function to plot the decision boundary and predict the Regression value
 ## Program:
 Program to implement the the Logistic Regression Using Gradient Descent.
 
-Developed by: DHARAN ADITYA S
+Developed by: ADITAAYAN M
 
-RegisterNumber:212223040035
+RegisterNumber:212223040006
 ```
 import pandas as pd
 import numpy as np
